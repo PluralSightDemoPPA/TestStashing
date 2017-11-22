@@ -1,7 +1,2 @@
-show local file change
-<<<<<<< Updated upstream
-Change from server
-=======
 
 This is local chnage
->>>>>>> Stashed changes
